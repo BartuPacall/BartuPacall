@@ -1,8 +1,8 @@
 <h1 align="center">Hi ⚡, I'm Bartu Paçal</h1>
 <h3 align="center">A passionate Computer Engineering student from Turkey</h3>
 
-<img align="right" alt="coding" width="450" src="https://scitechdaily.com/images/Computer-Code-Speed-Algorithm-Concept.gif">
-<img align="left" alt="coding" width="450" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"
+<img align="right" alt="coding" width="550" src="https://scitechdaily.com/images/Computer-Code-Speed-Algorithm-Concept.gif">
+<img align="left" alt="coding" width="550" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"
 
 - 🌱 I’m currently learning **Machine Learning**
 
