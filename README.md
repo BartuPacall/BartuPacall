@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bartu-paçal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bartu paçal" height="30" width="40" /></a>
+<a href="https://tr.linkedin.com/in/bartu-pa%C3%A7al-b88442251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bartu paçal" height="30" width="40" /></a>
 <a href="https://instagram.com/1bartu.pacal3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1bartu.pacal3" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@bartupacal9748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bartu pacal(@bartupacal9748)" height="30" width="40" /></a>
 </p>
