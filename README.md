@@ -36,7 +36,7 @@
 
 
 
-<p><img align="down" src="https://github-readme-streak-stats.herokuapp.com/?user=bartupacall&" alt="bartupacall" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bartupacall&" alt="bartupacall" /></p>
 
 
 
