@@ -1,15 +1,12 @@
 <h1 align="center">Hi ⚡, I'm Bartu Paçal</h1>
 <h3 align="center">A passionate Computer Engineering student from Turkey</h3>
 
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
-
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BEPb&hide_border=true&theme=redical)
 <img align="right" alt="coding" width="500" src="https://scitechdaily.com/images/Computer-Code-Speed-Algorithm-Concept.gif">
-<img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"
+<img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" 
+ 
 
 - 🌱 I’m currently learning **Machine Learning**
 
