@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Computer Engineering student from Turkey</h3>
 
 
-<p><img align="center" src="https://media.giphy.com/media/BE8gB6h6ZoM9DSwlau/giphy-downsized-large.gif" alt="bartupacall" /></p>
-
 - 🌱 I’m currently learning *Machine Learning,Flutter*
 
 - 🤝 I’m looking for help with **Artificial Intelligence and VR systems or Mobile Development**
