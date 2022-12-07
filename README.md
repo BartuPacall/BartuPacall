@@ -1,6 +1,6 @@
 <h1 align="center">Hi ⚡, I'm Bartu Paçal</h1> 
 
-<img align="right" width="720" height="405" img src="https://media2.giphy.com/media/BE8gB6h6ZoM9DSwlau/200w.webp"/>
+<img align="right" img src="https://media2.giphy.com/media/BE8gB6h6ZoM9DSwlau/200w.webp"/>
 
 <h3 align="center">A passionate Computer Engineering student from Turkey</h3>
 
@@ -38,4 +38,4 @@ https://media2.giphy.com/media/MzBUIZhz8PtOkHHU8n/200w.webp
 
 
 
-<img align="center" width="720" height="405" img src="https://media2.giphy.com/media/HeeVATcVX2ZrvXQnZT/giphy.gif?cid=790b7611b56e82b65e34c0d6d17da1cd63dc5c674c5d2ad0&rid=giphy.gif&ct=g"/>
+<img align="center" width="624" height="351" img src="https://media2.giphy.com/media/HeeVATcVX2ZrvXQnZT/giphy.gif?cid=790b7611b56e82b65e34c0d6d17da1cd63dc5c674c5d2ad0&rid=giphy.gif&ct=g"/>
