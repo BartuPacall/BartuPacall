@@ -1,7 +1,7 @@
 <h1 align="center">Hi ⚡, I'm Bartu Paçal</h1>
 <h3 align="center">A passionate Computer Engineering student from Turkey</h3>
 
-<img align="Center" img src="blob:https://giphy.com/52f9e06a-e603-4847-bd91-8f2c7cc7fb44"/>
+<img align="Center" img src="https://media2.giphy.com/media/BE8gB6h6ZoM9DSwlau/giphy.gif"/>
 
 
 - 🌱 I’m currently learning *Machine Learning,Flutter*
