@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=813DD1&size=30&lines=Hey!+It's+Nitin!;A+designer+cum+developer...;A+hobbiest+photographer;And+an+aesthetic+lover)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28A61E&background=97F6FF00&width=441&height=55&lines=Hey!+It's+Bartu.;But+you+call+me+Riddler.;I+love+puzzles+and+taking+photos.;My+Major%3AComputer+Engineering;See+you+again+take+care+yourself...)](https://git.io/typing-svg)
 
 <h1 align="center">Hi ⚡, I'm Bartu Paçal</h1> <img align="right" img src="https://media2.giphy.com/media/BE8gB6h6ZoM9DSwlau/200w.webp"/>
 
