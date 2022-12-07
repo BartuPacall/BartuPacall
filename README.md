@@ -4,15 +4,15 @@
 
   <h3 align="center">A passionate Computer Engineering student from Turkey</h3>
 
-  <h3 align="right"> - 🌱 I’m currently learning *Machine Learning,Flutter*
+  <h3 align="center"> - 🌱 I’m currently learning *Machine Learning,Flutter*
 
-  <h3 align="right"> - 🤝 I’m looking for help with **Artificial Intelligence and VR systems or Mobile Development**
+  <h3 align="center"> - 🤝 I’m looking for help with **Artificial Intelligence and VR systems or Mobile Development**
 
-  <h3 align="right">  - 📫 How to reach me **bartupacal@ogr.bandirma.edu.tr**
+  <h3 align="center">  - 📫 How to reach me **bartupacal@ogr.bandirma.edu.tr**
 
-  <h3 align="right"> - 🤝 I’m looking for help with **Backend Design**
+  <h3 align="center"> - 🤝 I’m looking for help with **Backend Design**
 
-  <h3 align="right">  - ⚡ Fun fact **My cold jokes and me.**
+  <h3 align="center">  - ⚡ Fun fact **My cold jokes and me.**
 
 <p><img align="center" width="620" height="370" img src="https://media2.giphy.com/media/HeeVATcVX2ZrvXQnZT/giphy.gif?cid=790b7611b56e82b65e34c0d6d17da1cd63dc5c674c5d2ad0&rid=giphy.gif&ct=g"/>
 
