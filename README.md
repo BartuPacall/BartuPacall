@@ -1,4 +1,6 @@
-<h1 align="center">Hi ⚡, I'm Bartu Paçal</h1> 
+<h1 align="center">Hi ⚡, I'm Bartu Paçal</h1> <img align="right" img src="https://media2.giphy.com/media/BE8gB6h6ZoM9DSwlau/200w.webp"/>
+
+ 
 
 <h3 align="left">       A passionate Computer Engineering student from Turkey</h3>
 <h3 align="left"> - 🌱 I’m currently learning *Machine Learning,Flutter*
@@ -7,7 +9,7 @@
 <h3 align="left"> - 🤝 I’m looking for help with **Backend Design**
 <h3 align="left"> - ⚡ Fun fact **My cold jokes and me.**
     
- <img align="left" img src="https://media2.giphy.com/media/BE8gB6h6ZoM9DSwlau/200w.webp"/>
+
 
 <p><img align="center" width="620" height="370" img src="https://media2.giphy.com/media/HeeVATcVX2ZrvXQnZT/giphy.gif?cid=790b7611b56e82b65e34c0d6d17da1cd63dc5c674c5d2ad0&rid=giphy.gif&ct=g"/>
 
