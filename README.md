@@ -4,9 +4,6 @@
 
 <h3 align="center">A passionate Computer Engineering student from Turkey</h3>
 
-
-https://media2.giphy.com/media/MzBUIZhz8PtOkHHU8n/200w.webp
-
 - 🌱 I’m currently learning *Machine Learning,Flutter*
 
 - 🤝 I’m looking for help with **Artificial Intelligence and VR systems or Mobile Development**
@@ -17,7 +14,7 @@ https://media2.giphy.com/media/MzBUIZhz8PtOkHHU8n/200w.webp
 
 - ⚡ Fun fact **My cold jokes and me.**
 
-<img align="mid" width="600" height="400" img src="https://media2.giphy.com/media/HeeVATcVX2ZrvXQnZT/giphy.gif?cid=790b7611b56e82b65e34c0d6d17da1cd63dc5c674c5d2ad0&rid=giphy.gif&ct=g"/>
+<img align="mid" width="620" height="370" img src="https://media2.giphy.com/media/HeeVATcVX2ZrvXQnZT/giphy.gif?cid=790b7611b56e82b65e34c0d6d17da1cd63dc5c674c5d2ad0&rid=giphy.gif&ct=g"/>
 
 
 
