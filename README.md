@@ -47,7 +47,7 @@
 
 ## My hobbies
 
-- 📸 **PHOTOGRAPHY**<img align="right" style="width:16rem; height:auto" img src="Hobbies.png"/>
+- 📸 **PHOTOGRAPHY**<img align="right" style="width:16rem; height:auto" img src="https://github.com/nkthehustler/nkthehustler/raw/main/Hobbies.png"/>
 
 - 🎵 **MUSIC**
 
@@ -57,7 +57,3 @@
 
 - ☕ **COFFEE**
 
-##
-<p align="center">
-<a href="https://www.example.com">www.nkthehustler/portfolio.com</a>
-</p>
