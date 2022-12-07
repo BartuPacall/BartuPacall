@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Computer Engineering student from Turkey</h3>
 
 
+
 <img align="right" alt="coding" width="500" src="https://scitechdaily.com/images/Computer-Code-Speed-Algorithm-Concept.gif">
 <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" 
  
@@ -31,5 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bartupacall&show_icons=true&locale=en" alt="bartupacall" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bartupacall&" alt="bartupacall" /></p>
+
+
 
 
