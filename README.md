@@ -38,9 +38,6 @@
 ![BartuPacall's snake gif](https://github.com/BartuPacall/nkthehustler/blob/output/github-contribution-grid-snake.svg)
 <p><img align="right" width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=bartupacall&" alt="bartupacall" /></p>
 
-
-<p><img align="Center" img src="https://repository-images.githubusercontent.com/521515652/d0a2676e-2a17-4ad1-8e2d-54dc08db0db7"/>
-
 <img src=https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png />
 
  
@@ -57,3 +54,4 @@
 - ☕ **COFFEE**
 
  <p><img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=bartupacall&show_icons=true&locale=en" alt="bartupacall" /></p>
+<p><img align="Center" img src="https://repository-images.githubusercontent.com/521515652/d0a2676e-2a17-4ad1-8e2d-54dc08db0db7"/>
