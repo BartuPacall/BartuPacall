@@ -38,4 +38,4 @@ https://media2.giphy.com/media/MzBUIZhz8PtOkHHU8n/200w.webp
 
 
 
-<img align="center" width="1000" height="500" img src="https://media2.giphy.com/media/MzBUIZhz8PtOkHHU8n/200w.webp"/>
+<img align="center" width="1000" height="500" img src="file:///C:/Users/Bartu/Downloads/Yellow-Green-Magenta-Cyan-Loud-and-Proud-Gaming-Twitch-Screen.gif"/>
