@@ -1,6 +1,6 @@
 <h1 align="center">Hi ⚡, I'm Bartu Paçal</h1> 
 
-<img align="right" img src="https://media2.giphy.com/media/BE8gB6h6ZoM9DSwlau/200w.webp"/>
+<img align="right" width="720" height="405" img src="https://media2.giphy.com/media/BE8gB6h6ZoM9DSwlau/200w.webp"/>
 
 <h3 align="center">A passionate Computer Engineering student from Turkey</h3>
 
