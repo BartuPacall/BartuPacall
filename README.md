@@ -17,7 +17,7 @@ https://media2.giphy.com/media/MzBUIZhz8PtOkHHU8n/200w.webp
 
 - ⚡ Fun fact **My cold jokes and me.**
 
-<img align="mid" width="624" height="351" img src="https://media2.giphy.com/media/HeeVATcVX2ZrvXQnZT/giphy.gif?cid=790b7611b56e82b65e34c0d6d17da1cd63dc5c674c5d2ad0&rid=giphy.gif&ct=g"/>
+<img align="mid" width="650" height="350" img src="https://media2.giphy.com/media/HeeVATcVX2ZrvXQnZT/giphy.gif?cid=790b7611b56e82b65e34c0d6d17da1cd63dc5c674c5d2ad0&rid=giphy.gif&ct=g"/>
 
 
 
