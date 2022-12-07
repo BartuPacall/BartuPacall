@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bartupacal@ogr.bandirma.edu.tr**
 
--🤝 I’m looking for help with **Backend Design**
+- 🤝 I’m looking for help with **Backend Design**
 
 - ⚡ Fun fact **My cold jokes and me.**
 
