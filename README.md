@@ -35,7 +35,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartuPacall&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
-![nkthehustler's snake gif](https://github.com/nkthehustler/nkthehustler/blob/output/github-contribution-grid-snake.svg)
+![nkthehustler's snake gif](https://github.com/BartuPacall/nkthehustler/blob/output/github-contribution-grid-snake.svg)
 
 
 <img src=https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png />
