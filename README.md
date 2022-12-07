@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=813DD1&size=30&lines=Hey!+It's+Nitin!;A+designer+cum+developer...;A+hobbiest+photographer;And+an+aesthetic+lover)](https://git.io/typing-svg) 
+
 <h1 align="center">Hi ⚡, I'm Bartu Paçal</h1> <img align="right" img src="https://media2.giphy.com/media/BE8gB6h6ZoM9DSwlau/200w.webp"/>
 
  
@@ -27,9 +29,35 @@
 
 
 <p><img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=bartupacall&show_icons=true&locale=en" alt="bartupacall" /></p>
- 
+## My activities
+<a href="https://github.com/nkthehustler/github-readme-stats">
+<img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=BartuPacall&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://github.com/nkthehustler/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartuPacall&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
+
+![BartuPacall's snake gif](https://github.com/BartuPacall/nkthehustler/blob/output/github-contribution-grid-snake.svg)
 <p><img align="right" width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=bartupacall&" alt="bartupacall" /></p>
 
 
 <p><img align="Center" img src="https://repository-images.githubusercontent.com/521515652/d0a2676e-2a17-4ad1-8e2d-54dc08db0db7"/>
 
+<img src=https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png />
+
+## My hobbies
+
+- 📸 **PHOTOGRAPHY**<img align="right" style="width:16rem; height:auto" img src="Hobbies.png"/>
+
+- 🎵 **MUSIC**
+
+- 🎮 **GAMING**
+
+- 📚 **BOOKS**
+
+- ☕ **COFFEE**
+
+##
+<p align="center">
+<a href="https://www.example.com">www.nkthehustler/portfolio.com</a>
+</p>
