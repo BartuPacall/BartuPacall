@@ -4,20 +4,14 @@
 
 <img align="right" alt="coding" width="500" src="https://scitechdaily.com/images/Computer-Code-Speed-Algorithm-Concept.gif">
 <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" 
-     
-     
-     <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BEPb&hide_border=true&theme=redical)
  
+- 🌱 I’m currently learning **Machine Learning,Flutter**
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 🤝 I’m looking for help with **Artificial Intelligence and VR systems**
+- 🤝 I’m looking for help with **Artificial Intelligence and VR systems or Mobile Development**
 
 - 📫 How to reach me **bartupacal@ogr.bandirma.edu.tr**
 
-- 📄 Know about my experiences [Via LinkedIN](Via LinkedIN)
+- 📄 Know about my experiences [Via LinkedIN]
 
 - ⚡ Fun fact **My cold jokes and me.**
 
@@ -37,3 +31,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bartupacall&show_icons=true&locale=en" alt="bartupacall" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bartupacall&" alt="bartupacall" /></p>
+
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BEPb&hide_border=true&theme=redical)
+
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
