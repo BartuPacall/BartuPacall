@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **My cold jokes and me.**
 
-<img align="center" width="620" height="370" img src="https://media2.giphy.com/media/HeeVATcVX2ZrvXQnZT/giphy.gif?cid=790b7611b56e82b65e34c0d6d17da1cd63dc5c674c5d2ad0&rid=giphy.gif&ct=g"/>
+<p><img align="center" width="620" height="370" img src="https://media2.giphy.com/media/HeeVATcVX2ZrvXQnZT/giphy.gif?cid=790b7611b56e82b65e34c0d6d17da1cd63dc5c674c5d2ad0&rid=giphy.gif&ct=g"/>
 
 
 
@@ -34,5 +34,5 @@
 <p><img align="right" width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=bartupacall&" alt="bartupacall" /></p>
 
 
-<img align="Center" img src="https://repository-images.githubusercontent.com/521515652/d0a2676e-2a17-4ad1-8e2d-54dc08db0db7"/>
+<p><img align="Center" img src="https://repository-images.githubusercontent.com/521515652/d0a2676e-2a17-4ad1-8e2d-54dc08db0db7"/>
 
