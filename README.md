@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Computer Engineering student from Turkey</h3>
 
 
-
+https://media2.giphy.com/media/MzBUIZhz8PtOkHHU8n/200w.webp
 
 - 🌱 I’m currently learning *Machine Learning,Flutter*
 
@@ -38,4 +38,4 @@
 
 
 
-
+<img align="right" img src="https://media2.giphy.com/media/MzBUIZhz8PtOkHHU8n/200w.webp"/>
