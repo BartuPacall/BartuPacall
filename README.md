@@ -56,3 +56,4 @@
 
 - ☕ **COFFEE**
 
+ <p><img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=bartupacall&show_icons=true&locale=en" alt="bartupacall" /></p>
