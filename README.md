@@ -51,7 +51,7 @@
 
 - 📚 **BOOKS**
 
-- ☕ **COFFEE**
+- ☕ *COFFEE*
 
  <p><img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=bartupacall&show_icons=true&locale=en" alt="bartupacall" /></p>
 <p><img align="right" width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=bartupacall&" alt="bartupacall" /></p>
