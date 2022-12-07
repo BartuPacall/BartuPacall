@@ -30,13 +30,13 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bartupacall&show_icons=true&locale=en" alt="bartupacall" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bartupacall&show_icons=true&locale=en" alt="bartupacall" /></p>
 
 
 
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bartupacall&" alt="bartupacall" /></p>
+<p><img align="down" src="https://github-readme-streak-stats.herokuapp.com/?user=bartupacall&" alt="bartupacall" /></p>
 
 
 
