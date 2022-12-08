@@ -4,6 +4,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartuPacall&theme=noctis_minimus&layout=compact" />
 </a>
 
-![Snake animation](https://github.com/BartuPacall/BartuPacall/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BartuPacall/BartuPacall/blob/output/a-contribution-grid-snake.svg)
   
 
