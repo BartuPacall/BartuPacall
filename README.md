@@ -52,10 +52,13 @@
 
 <img src=https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png />
 
- 
-<h1 align="center">
 <p><img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=bartupacall&show_icons=true&locale=en" alt="bartupacall" /></p>
 <p><img align="right" width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=bartupacall&" alt="bartupacall" /></p>
+ 
+ 
+ 
+ 
+<h1 align="center">
  ⑬ My Hobbies ⑬
 </h1>
 
