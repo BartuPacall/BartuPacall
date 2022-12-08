@@ -1,7 +1,11 @@
 <h1 align="center">
 💬 Welcome to Bartu Pacal's Github Homepage
 </h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28A61E&background=97F6FF00&width=441&height=55&lines=Hey!+It's+Bartu.;But+you+call+me+Riddler.;I+love+puzzles+and+taking+photos.;My+Major%3AComputer+Engineering;See+you+again+take+care+yourself...)](https://git.io/typing-svg)
 </h1> <img align="right" img src="https://media2.giphy.com/media/BE8gB6h6ZoM9DSwlau/200w.webp"/>
+
+
 <h3 align="left">       A passionate Computer Engineering student from Turkey</h3>
 <h3 align="left"> - 💻 I’m currently learning *Machine Learning,Flutter*
 <h3 align="left"> - 🤝 I’m looking for help with **Mobile Development**
@@ -9,7 +13,7 @@
 <h3 align="left"> - 🤝 I’m looking for help with **Backend Design**
 <h3 align="left"> - 😁 Fun fact **My cold jokes and me.**
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28A61E&background=97F6FF00&width=441&height=55&lines=Hey!+It's+Bartu.;But+you+call+me+Riddler.;I+love+puzzles+and+taking+photos.;My+Major%3AComputer+Engineering;See+you+again+take+care+yourself...)](https://git.io/typing-svg)
+ 
 
  
  <p align="center"> 
