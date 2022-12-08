@@ -8,6 +8,7 @@
 <h3 align="left"> - 📫 How to reach me **bartupacal@ogr.bandirma.edu.tr**
 <h3 align="left"> - 🤝 I’m looking for help with **Backend Design**
 <h3 align="left"> - 😁 Fun fact **My cold jokes and me.**
+
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28A61E&background=97F6FF00&width=441&height=55&lines=Hey!+It's+Bartu.;But+you+call+me+Riddler.;I+love+puzzles+and+taking+photos.;My+Major%3AComputer+Engineering;See+you+again+take+care+yourself...)](https://git.io/typing-svg)
 
  
