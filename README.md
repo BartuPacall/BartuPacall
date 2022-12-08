@@ -17,12 +17,9 @@
 </p>
 
  
- <p img align= "center" > img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/></a>
- 
- <p align="center">
-<a href="https://piyushmalhotra.netlify.app/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
+ <p img align="center"> <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
+ </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
