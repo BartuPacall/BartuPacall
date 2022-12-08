@@ -10,9 +10,9 @@
 <h3 align="left"> - 🤝 I’m looking for help with **Backend Design**
 <h3 align="left"> - ⚡ Fun fact **My cold jokes and me.**
     
-
+##Homepage
  
- <p img align="down center"> <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
+ <p img align="center"> <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
  </p>
 
 <p align="center"> 
