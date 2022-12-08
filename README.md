@@ -5,7 +5,7 @@
 
 <h3 align="left">       A passionate Computer Engineering student from Turkey</h3>
 <h3 align="left"> - 💻 I’m currently learning *Machine Learning,Flutter*
-<h3 align="left"> - 🤝 I’m looking for help with **Artificial Intelligence and VR systems or Mobile Development**
+<h3 align="left"> - 🤝 I’m looking for help with **Mobile Development**
 <h3 align="left"> - 📫 How to reach me **bartupacal@ogr.bandirma.edu.tr**
 <h3 align="left"> - 🤝 I’m looking for help with **Backend Design**
 <h3 align="left"> - 😁 Fun fact **My cold jokes and me.**
