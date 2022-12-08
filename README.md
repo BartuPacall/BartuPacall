@@ -4,11 +4,11 @@
  
 
 <h3 align="left">       A passionate Computer Engineering student from Turkey</h3>
-<h3 align="left"> - 🌱 I’m currently learning *Machine Learning,Flutter*
+<h3 align="left"> - 💻 I’m currently learning *Machine Learning,Flutter*
 <h3 align="left"> - 🤝 I’m looking for help with **Artificial Intelligence and VR systems or Mobile Development**
 <h3 align="left"> - 📫 How to reach me **bartupacal@ogr.bandirma.edu.tr**
 <h3 align="left"> - 🤝 I’m looking for help with **Backend Design**
-<h3 align="left"> - ⚡ Fun fact **My cold jokes and me.**
+<h3 align="left"> - 😁 Fun fact **My cold jokes and me.**
     
 
 <h1 align="center">
@@ -39,7 +39,7 @@
 
 
 <h1 align="center">
-🎯 MY ACTİVİTİES 
+🎯 MY ACTİVİTİES 🎯
 </h1>
 <a href="https://github.com/nkthehustler/github-readme-stats">
 <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=BartuPacall&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
@@ -53,7 +53,9 @@
 <img src=https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png />
 
  
-## My hobbies
+<h1 align="center">
+ ⑬ My Hobbies ⑬
+</h1>
 
 - 📸 **PHOTOGRAPHY**<img align="right" style="width:16rem; height:auto" img src="https://github.com/nkthehustler/nkthehustler/raw/main/Hobbies.png"/>
 
