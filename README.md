@@ -76,7 +76,7 @@
   <img src="https://cincydiscord.com/wp-content/uploads/2019/02/CINCYDISCORDJOIN.png"/></a>
 </p>
 
-<p align="left">
+<p align="center">
   <strong>Discord:</strong> Bartesian#1707
 </p>
 
