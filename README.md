@@ -67,14 +67,6 @@
 
 - ☕ *COFFEE*
 
-<div align=center>
-
- ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
-  
-</div>
-
-
-
 <p align="left">
   Enter my Discord server for more information: ⤵️
 </p>
@@ -87,3 +79,10 @@
 <p align="left">
   <strong>Discord:</strong> Bartesian#1707
 </p>
+
+ 
+ <div align=center>
+
+ ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
+  
+</div>
