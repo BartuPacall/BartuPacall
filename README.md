@@ -72,3 +72,18 @@
  ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
   
 </div>
+
+
+
+<p align="left">
+  Enter my Discord server for more information: ⤵️
+</p>
+
+<p align="left">
+  <a href="https://discord.gg/JrE2WrKp" alt="Discord">
+  <img src="https://cincydiscord.com/wp-content/uploads/2019/02/CINCYDISCORDJOIN.png"/></a>
+</p>
+
+<p align="left">
+  <strong>Discord:</strong> Bartesian#1707
+</p>
