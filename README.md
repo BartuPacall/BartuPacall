@@ -2,7 +2,6 @@
 💬 Welcome to Bartu Pacal's Github Homepage
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28A61E&background=97F6FF00&width=441&height=55&lines=Hey!+It's+Bartu.;But+you+call+me+Riddler.;I+love+puzzles+and+taking+photos.;My+Major%3AComputer+Engineering;See+you+again+take+care+yourself...)](https://git.io/typing-svg)
 
 
 <p align="center"> 
