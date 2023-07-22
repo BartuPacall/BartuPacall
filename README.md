@@ -68,22 +68,5 @@
 - ☕ *COFFEE*
 
 <p align="center">
-  Enter my Discord server for more information: ⤵️
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/JrE2WrKp" alt="Discord">
-  <img src="https://cincydiscord.com/wp-content/uploads/2019/02/CINCYDISCORDJOIN.png"/></a>
-</p>
-
-<p align="center">
-  <strong>Discord:</strong> Bartesian#1707
-</p>
-<p align="center">
  </h1> <img align="center" img src="https://steamuserimages-a.akamaihd.net/ugc/1628570202479186424/C7D680EFAA59033BA4955B041CD773857074BD1F/?imw=506&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
  </p>
- <div align=center>
-
- ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
-  
-</div>
