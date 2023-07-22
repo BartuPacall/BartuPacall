@@ -66,7 +66,3 @@
 - 📚 **BOOKS**
 
 - ☕ *COFFEE*
-
-<p align="center">
- </h1> <img align="center" img src="https://steamuserimages-a.akamaihd.net/ugc/1628570202479186424/C7D680EFAA59033BA4955B041CD773857074BD1F/?imw=506&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
- </p>
