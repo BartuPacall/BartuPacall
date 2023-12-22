@@ -15,7 +15,7 @@
 <a href="https://tr.linkedin.com/in/bartu-pa%C3%A7al-b88442251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bartu paçal" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bartupacal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1bartu.pacal3" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@bartupacal9748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bartu pacal(@bartupacal9748)" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@bartupacal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@bartupacal" height="30" width="40" /></a>
+<a href="https://medium.com/@bartupacal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@bartupacal" height="30" width="40" /></a>
 </p>
  
 <h3 align="center">Languages and Tools:</h3>
