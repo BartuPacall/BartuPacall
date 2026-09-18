@@ -1,41 +1,70 @@
-<h1 align="center">
-💬 Welcome to Bartu Pacal's Github Homepage
-</h1>
- 
- <p img align="center" > <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
- </p>
+<h1 align="center">Hi, I'm Bartu 👋</h1>
+<h3 align="center">AI & Data Engineering Enthusiast</h3>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://tr.linkedin.com/in/bartu-pa%C3%A7al-b88442251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bartu paçal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bartupacal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1bartu.pacal3" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@BartuPaçal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bartu pacal(@bartupacal9748)" height="30" width="40" /></a>
-<a href="https://medium.com/@bartupacal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@bartupacal" height="30" width="40" /></a>
+  Computer Engineering graduate. I build intelligent systems at the intersection of data science, machine learning,
+  and scalable software engineering. Currently focused on MLOps and risk modeling.
 </p>
+
+---
+
+### 🚀 Currently Focused On
+- ⚙️ MLOps and production-ready AI systems
+- 📊 Financial risk modeling and operational data analytics
+- 🤖 Exploring generative AI and LLM-based applications
+- 🌱 Scalable software engineering and ML pipeline design
+
+---
+
+### 🛠️ Technologies & Tools
+
+**Data Science & ML**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/KNIME-FFF11D?style=flat-square&logo=knime&logoColor=black" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+</p>
+
+**Software & Automation**
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular_17-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+</p>
+
+**DevOps & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+</p>
+
+---
+
+### 🧩 Also Familiar With
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
  
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  </p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BartuPacall&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartuPacall&layout=compact&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BartuPacall&hide_border=true" />
+</p>
 
-<h1 align="center">
-🎯 MY ACTİVİTİES 🎯
-</h1>
-![nkthehustler's snake gif](https://github.com/nkthehustler/nkthehustler/blob/output/github-contribution-grid-snake.svg)
- 
-<p><img align="right" width="350" height="150" src="https://github-readme-stats.vercel.app/api?username=bartupacall&show_icons=true&locale=en" alt="bartupacall" /></p>
-<p><img align="left" width="350" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=bartupacall&" alt="bartupacall" /></p>
-
-<img src=https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png />
-
-<h1 align="center">
- ⑬ My Hobbies ⑬
-</h1>
-
-- 📸 **PHOTOGRAPHY**<img align="right" style="width:16rem; height:auto" img src="https://github.com/nkthehustler/nkthehustler/raw/main/Hobbies.png"/>
-
-- 🎵 **MUSIC**
-
-- 🎮 **GAMING**
-
-- 📚 **BOOKS**
-
-- ☕ *COFFEE*
+<p align="center"><i>I love designing intelligent systems and uncovering the story behind the data. 🚀</i></p>
