@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bartu 👋</h1>
-<h3 align="center">AI & Data Engineering Enthusiast</h3>
+<h3 align="center">AI & Data Engineering | Machine Learning</h3>
 
 <p align="center">
   Computer Engineering graduate. I build intelligent systems at the intersection of data science, machine learning,
