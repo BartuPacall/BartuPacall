@@ -19,13 +19,6 @@
 <h1 align="center">
 🎯 MY ACTİVİTİES 🎯
 </h1>
-<a href="https://github.com/nkthehustler/github-readme-stats">
-<img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=BartuPacall&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
-<a href="https://github.com/nkthehustler/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartuPacall&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-</a>
-
 ![nkthehustler's snake gif](https://github.com/nkthehustler/nkthehustler/blob/output/github-contribution-grid-snake.svg)
  
 <p><img align="right" width="350" height="150" src="https://github-readme-stats.vercel.app/api?username=bartupacall&show_icons=true&locale=en" alt="bartupacall" /></p>
