@@ -1,4 +1,19 @@
-<h1 align="center">Hi, I'm Bartu 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,17,29,35&height=180&section=header&text=Hello,%20I'm%20Bartu!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=60&lines=Welcome+to+my+digital+universe!+✨;+Feel+free+to+explore+my+projects+below!+👇;+Let's+build+something+awesome+together!+🚀" alt="Typing SVG" />
+</h3>
+
+<p align="center">
+  <a href="https://github.com/BartuPacall">
+    <img src="https://komarev.com/ghpvc/?username=bartupacal&color=blueviolet&style=flat-square&label=Profile+Views" alt="Visitor Count" />
+  </a>
+  <a href="https://www.linkedin.com/in/bartu-pacal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 <h3 align="center">Data Science & AI Engineer | Machine Learning</h3>
 
 <p align="center">
